@@ -8,6 +8,7 @@
 
 *PCA_analysis.ipynb* — a script that plots PCA for panels coverage. This script also can plot gene-coverage for defined set of samples. 
 Based on some bash-script data, like *bedtools on five genes.bash*.  
-<img title="Picture of the PCA for panels coverage" alt="Picture of the PCA for panels coverage" src="https://github.com/SongNightroad/Tips-and-bioinformatics-tools/blob/PCA-coverage-analysis/Results/PCA-different-panels.png?raw=true?">
-<img title="Picture of how much of Cumulative Variance is explained by each PCA-component" alt="Picture of how much of Cumulative Variance is explained by each PCA-component" src="https://github.com/SongNightroad/Tips-and-bioinformatics-tools/blob/PCA-coverage-analysis/Results/PCA-%20Cumulative-Variance-plot.png?raw=true?raw=true">  
+Picture of the PCA for panels coverage. | Picture of how much of Cumulative Variance is explained by each PCA-component.
+- | - 
+<img title="Picture of the PCA for panels coverage" alt="Picture of the PCA for panels coverage" src="https://github.com/SongNightroad/Tips-and-bioinformatics-tools/blob/PCA-coverage-analysis/Results/PCA-different-panels.png?raw=true?"> | <img title="Picture of how much of Cumulative Variance is explained by each PCA-component" alt="Picture of how much of Cumulative Variance is explained by each PCA-component" src="https://github.com/SongNightroad/Tips-and-bioinformatics-tools/blob/PCA-coverage-analysis/Results/PCA-%20Cumulative-Variance-plot.png?raw=true">  
 
